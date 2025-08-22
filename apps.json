@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Notepad++",
+    "description": "Мощный текстовый редактор с подсветкой синтаксиса",
+    "type": "osint",
+    "icon": "https://notepad-plus-plus.org/images/logo.svg",
+    "download_url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.portable.x64.zip",
+    "screenshots": [
+      "https://notepad-plus-plus.org/assets/images/notepad4ever.gif",
+      "https://www.ghacks.net/wp-content/uploads/2019/12/notepad-plus-plus-dark-mode.jpg"
+    ]
+  },
+  {
+    "name": "OBS Studio",
+    "description": "Программа для записи экрана и стриминга",
+    "type": "ddos",
+    "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/obsproject_logo_icon_170269.png",
+    "download_url": "https://github.com/obsproject/obs-studio/releases/download/30.0.0/OBS-Studio-30.0.0-Full-Installer-x64.exe",
+    "screenshots": [
+      "https://obsproject.com/assets/images/new_studio_mode.png",
+      "https://obsproject.com/assets/images/sources.png"
+    ]
+  },
+  {
+    "name": "7-Zip",
+    "description": "Мощный архиватор с высокой степенью сжатия",
+    "type": "probiv",
+    "icon": "https://www.7-zip.org/7ziplogo.png",
+    "download_url": "https://7-zip.org/a/7z2301-x64.exe",
+    "screenshots": [
+      "https://www.7-zip.org/7z-screen.png"
+    ]
+  },
+  {
+    "name": "VLC Media Player",
+    "description": "Универсальный медиаплеер для всех форматов",
+    "type": "osint",
+    "icon": "https://img.utdstc.com/icon/ef3/c52/ef3c526d6bcf79394bdc51c9a5f74bcfc9f82e6f315e8261f8c8fac808218ca7:200",
+    "download_url": "https://download.videolan.org/pub/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe",
+    "screenshots": [
+      "https://www.videolan.org/images/screenshots/1.1.0/vlc-1.1-linux.jpg"
+    ]
+  },
+  {
+    "name": "Discord Tool",
+    "description": "Утилита для работы с Discord серверами",
+    "type": "Snos",
+    "icon": "https://www.pcworld.com/wp-content/uploads/2025/04/03_shipping_malware-100694090-orig-2.jpg?quality=50&strip=all",
+    "download_url": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
+    "screenshots": [
+      "https://support.discord.com/hc/article_attachments/360060093012/image10.png"
+    ]
+  },
+  {
+    "name": "Wireshark",
+    "description": "Анализатор сетевого трафика",
+    "type": "probiv",
+    "icon": "https://www.wireshark.org/assets/images/wireshark-logo.svg",
+    "download_url": "https://2.na.dl.wireshark.org/win64/Wireshark-win64-4.2.0.exe",
+    "screenshots": [
+      "https://www.wireshark.org/docs/wsug_html_chunked/wsug_graphics/ws-main.png"
+    ]
+  },
+  {
+    "name": "Nmap",
+    "description": "Сканер портов и сетевой утилиты",
+    "type": "osint",
+    "icon": "https://nmap.org/images/nmap-logo-256x256.png",
+    "download_url": "https://nmap.org/dist/nmap-7.94-setup.exe",
+    "screenshots": [
+      "https://nmap.org/images/nmap-frontend.jpg"
+    ]
+  },
+  {
+    "name": "Burp Suite Community",
+    "description": "Инструмент для тестирования веб-приложений",
+    "type": "probiv",
+    "icon": "https://portswigger.net/content/images/logos/burp-suite-pro.svg",
+    "download_url": "https://portswigger.net/burp/releases/download?product=community&version=2023.10.3.7&type=WindowsX64",
+    "screenshots": [
+      "https://portswigger.net/cms/images/54/14/6efb9bc5d143-article-190612-burp-suite-professional-proxy-http-history.png"
+    ]
+  }
+]
